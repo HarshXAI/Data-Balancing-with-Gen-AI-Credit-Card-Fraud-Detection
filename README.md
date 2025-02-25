@@ -8,7 +8,7 @@ This project implements a **Generative Adversarial Network (GAN)** to generate s
 - GANs generate synthetic fraud cases to improve model training.
 - Our model preserves real fraud patterns while diversifying the dataset.
 
-![Fraud Detection GAN](https://via.placeholder.com/800x400.png?text=Credit+Card+Fraud+Detection+using+GANs)
+
 
 ---
 
