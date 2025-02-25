@@ -27,7 +27,7 @@ This project implements a **Generative Adversarial Network (GAN)** to generate s
 - **Machine Learning**: Scikit-learn
 - **Visualization**: Matplotlib, Seaborn, Plotly
 
-![Tech Stack](https://via.placeholder.com/800x300.png?text=Tech+Stack)
+
 
 ---
 
@@ -79,5 +79,5 @@ Feel free to reach out for collaborations or inquiries!
 
 👨‍💻 Made with ❤️ by **Harsh Kanani**
 
-![Thank You](https://via.placeholder.com/800x400.png?text=Thank+You+for+Checking+Out+This+Project!)
+
 
